@@ -1,6 +1,7 @@
 ## Hello there, I'm Lafa 👋  
 
-Welcome to my GitHub profile. I'm a developer passionate about technology and motorcycles! 🚀  
+Welcome to my GitHub FRESH NEW profile. I'm a developer passionate about technology, motorcycles and nature landscapes! 🚀
+My previous account was [this one](https://www.github.com/lafadovale). Once I got robbed and my 2FA keys were gone with that device.
 
 ## 🔧 Technologies & Tools  
 - OutSystems (two certificates until now) 
