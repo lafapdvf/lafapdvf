@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello there, I'm Lafa 👋  
 
-<!--
-**lafapdvf/lafapdvf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I'm a developer passionate about technology and motorcycles! 🚀  
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools  
+- OutSystems (two certificates until now) 
+- JavaScript, TypeScript  
+- Angular, React, Node.js  
+- SQL, NoSQL
+- Azure and AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact  
+- [LinkedIn](https://www.linkedin.com/in/lafadovale-outsystems/)  
+- [Portfolio](https://personal-kpwwg6kq.outsystemscloud.com/OutSystemsPortfolio/)  
+
+⭐ If you like my work, don’t forget to leave a star on my repositories!  
