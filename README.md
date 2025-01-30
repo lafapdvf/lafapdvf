@@ -4,7 +4,7 @@ Welcome to my GitHub profile. I'm a developer passionate about technology and mo
 
 ## 🔧 Technologies & Tools  
 - OutSystems (two certificates until now) 
-- JavaScript, TypeScript  
+- JavaScript, TypeScript (now learning C#)
 - Angular, React, Node.js  
 - SQL, NoSQL
 - Azure and AWS
