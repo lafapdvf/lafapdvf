@@ -33,24 +33,23 @@
 
 ## 📊 GitHub Stats  
 
-<div align="center">
-
+<div align="center" style="display: flex; justify-content: center; gap: 10px; max-width: 820px; margin: auto;">
   <img 
        src="https://github-readme-stats.vercel.app/api?username=lafapdvf&show_icons=true&theme=tokyonight&hide_border=true" 
        alt="GitHub Stats" 
-       height="150" style="vertical-align: top;"
+       style="flex: 1; height: 150px; object-fit: contain;"
   />
 
   <img 
        src="https://github-readme-streak-stats.herokuapp.com/?user=lafapdvf&theme=tokyonight&hide_border=true" 
        alt="GitHub Streak" 
-       height="150" style="vertical-align: top;"
+       style="flex: 1; height: 150px; object-fit: contain;"
   />
   
   <img 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=lafapdvf&layout=compact&theme=tokyonight&hide_border=true" 
        alt="Top Languages" 
-       height="150" style="vertical-align: top;"
+       style="flex: 1; height: 150px; object-fit: contain;"
   />
 </div>
 
