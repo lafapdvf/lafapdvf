@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Lafa  
 
-💻 **Full-stack developer** passionate about building impactful solutions — from **low-code apps in OutSystems** to **modern web platforms**, and now diving into **Web3, Blockchain, and Smart Contracts**.  
+💻 **Full-stack developer** passionate about building impactful solutions — from **low-code apps in OutSystems** to **modern web platforms**, and now diving into **Web3, Blockchain, and Smart Cont[...]
 🏍️ Tech enthusiast, motorcycle rider, and nature explorer.  
 
 ---
@@ -33,25 +33,11 @@
 
 ## 📊 GitHub Stats  
 
-<div align="center" style="display: flex; flex-direction: row; justify-content: center; margin: auto;">
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=lafapdvf&show_icons=true&theme=tokyonight&hide_border=true" 
-       alt="GitHub Stats" 
-       style="flex: 1; height: 150px; object-fit: contain;"
-  />
-
-  <img 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=lafapdvf&theme=tokyonight&hide_border=true" 
-       alt="GitHub Streak" 
-       style="flex: 1; height: 150px; object-fit: contain;"
-  />
-  
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lafapdvf&layout=compact&theme=tokyonight&hide_border=true" 
-       alt="Top Languages" 
-       style="flex: 1; height: 150px; object-fit: contain;"
-  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lafapdvf&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lafapdvf&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lafapdvf&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+</p>
 
 ---
 
